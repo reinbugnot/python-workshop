@@ -1,5 +1,6 @@
-# ML_workshop
+# Python Workshop
 A series of workshops to introduce the basics of machine learning (ML) using python <br>
+By Rein Bugnot <br>
 
 **Part 1**: Python Basics <br>
 * Getting Started with IPython Notebook
@@ -8,3 +9,11 @@ A series of workshops to introduce the basics of machine learning (ML) using pyt
 * Arithmetics
 * Control Structures
 * Functions
+
+**Part 2**: Data Analysis using Python <br>
+* Creating Numpy Arrays
+* Array Inspection
+* Data Slicing
+* Array Arithmetics
+* Array Manipulation
+* Data Visualization
