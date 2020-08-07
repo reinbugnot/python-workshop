@@ -17,3 +17,7 @@ By Rein Bugnot <br>
 * Array Arithmetics
 * Array Manipulation
 * Data Visualization
+
+**Part 3**: Regression Basics
+* Scikit-learn Library
+* Implementing Linear Regression
